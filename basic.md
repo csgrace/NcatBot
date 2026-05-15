@@ -1,9 +1,17 @@
-源仓库：https://github.com/ncatbot/NcatBot 
+**源仓库:**
 
-Issue: https://github.com/ncatbot/NcatBot/issues/36 
+https://github.com/ncatbot/NcatBot 
 
-PR: https://github.com/ncatbot/NcatBot/pull/37
+**Issue:**
 
+https://github.com/ncatbot/NcatBot/issues/36 
+
+**PR:**
+
+https://github.com/ncatbot/NcatBot/pull/37
+
+
+**Description:**
 
 在整个 QQ 机器人体系里，NapCat 和 SnowLuma 本质上都属于“QQ 客户端适配器（QQ Adapter / Protocol Implementation）”，是“让机器人能够真正连接 QQ”的那一层。
 
