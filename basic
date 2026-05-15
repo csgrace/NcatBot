@@ -1,3 +1,5 @@
+源仓库：https://github.com/ncatbot/NcatBot 
+
 Issue: https://github.com/ncatbot/NcatBot/issues/36 
 
 经运行与检验，snowluma基本适配现有napcat_onebot11适配器，核心事件解析和api调用无需更改。
